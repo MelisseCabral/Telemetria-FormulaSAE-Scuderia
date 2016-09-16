@@ -1,0 +1,81 @@
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\obj\Debug\Forms.csproj.GenerateResource.Cache
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\bin\Debug\Program.cs
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\obj\Debug\Forms.Properties.Resources.resources
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\bin\Debug\Forms.exe
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\bin\Debug\Forms.pdb
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\obj\Debug\Forms.fCockpick.resources
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\obj\Debug\Forms.csprojResolveAssemblyReference.cache
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\bin\Debug\Person.cs
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\bin\Debug\Broker.cs
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\bin\Debug\Domain.dll
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\bin\Debug\Session.dll
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\bin\Debug\Domain.pdb
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\bin\Debug\Session.pdb
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\obj\Debug\Forms.fDatabase.resources
+C:\Db\Person.cs
+C:\Db\Broker.cs
+C:\Db\Program.cs
+C:\Db\Telemetria Fórmula SAE.exe
+C:\Db\Telemetria Fórmula SAE.pdb
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\obj\Debug\Telemetria Fórmula SAE.exe
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\obj\Debug\Telemetria Fórmula SAE.pdb
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\obj\Debug\Forms.CustomTextBox.resources
+D:\Db\Person.cs
+D:\Db\Broker.cs
+D:\Db\Program.cs
+D:\Db\Telemetria Fórmula SAE.exe
+D:\Db\Telemetria Fórmula SAE.pdb
+D:\Debug\Telemetria Fórmula SAE.exe.config
+D:\Debug\Program.cs
+D:\Debug\Telemetria Fórmula SAE.exe
+D:\Debug\Telemetria Fórmula SAE.pdb
+D:\Telemetria Fórmula SAE\Forms\obj\Debug\Forms.csprojResolveAssemblyReference.cache
+D:\Telemetria Fórmula SAE\Forms\obj\Debug\Forms.fCockpick.resources
+D:\Telemetria Fórmula SAE\Forms\obj\Debug\Forms.Properties.Resources.resources
+D:\Telemetria Fórmula SAE\Forms\obj\Debug\Forms.csproj.GenerateResource.Cache
+D:\Telemetria Fórmula SAE\Forms\obj\Debug\Telemetria Fórmula SAE.exe
+D:\Telemetria Fórmula SAE\Forms\obj\Debug\Telemetria Fórmula SAE.pdb
+C:\Users\julio\OneDrive\Documentos\MEGA\TCC\Code\Telemetria Fórmula SAE - v.0.2\Debug\Telemetria Fórmula SAE.exe.config
+C:\Users\julio\OneDrive\Documentos\MEGA\TCC\Code\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Forms\obj\Debug\Telemetria Fórmula SAE.exe
+C:\Users\julio\OneDrive\Documentos\MEGA\TCC\Code\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Forms\obj\Debug\Telemetria Fórmula SAE.pdb
+C:\Users\julio\OneDrive\Documentos\MEGA\TCC\Code\Telemetria Fórmula SAE - v.0.2\Debug\Program.cs
+C:\Users\julio\OneDrive\Documentos\MEGA\TCC\Code\Telemetria Fórmula SAE - v.0.2\Debug\Telemetria Fórmula SAE.exe
+C:\Users\julio\OneDrive\Documentos\MEGA\TCC\Code\Telemetria Fórmula SAE - v.0.2\Debug\Telemetria Fórmula SAE.pdb
+C:\Users\julio\OneDrive\Documentos\MEGA\TCC\Code\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Forms\obj\Debug\Forms.csprojResolveAssemblyReference.cache
+C:\Users\julio\OneDrive\Documentos\MEGA\TCC\Code\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Forms\obj\Debug\Forms.fCockpick.resources
+C:\Users\julio\OneDrive\Documentos\MEGA\TCC\Code\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Forms\obj\Debug\Forms.Properties.Resources.resources
+C:\Users\julio\OneDrive\Documentos\MEGA\TCC\Code\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Forms\obj\Debug\Forms.csproj.GenerateResource.Cache
+C:\Users\julio\Documents\MEGA\TCC\Code\Telemetria Fórmula SAE - v.0.2\Debug\Telemetria Fórmula SAE.exe.config
+C:\Users\julio\Documents\MEGA\TCC\Code\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Forms\obj\Debug\Telemetria Fórmula SAE.exe
+C:\Users\julio\Documents\MEGA\TCC\Code\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Forms\obj\Debug\Telemetria Fórmula SAE.pdb
+C:\Users\julio\Documents\MEGA\TCC\Code\Telemetria Fórmula SAE - v.0.2\Debug\Program.cs
+C:\Users\julio\Documents\MEGA\TCC\Code\Telemetria Fórmula SAE - v.0.2\Debug\Telemetria Fórmula SAE.exe
+C:\Users\julio\Documents\MEGA\TCC\Code\Telemetria Fórmula SAE - v.0.2\Debug\Telemetria Fórmula SAE.pdb
+C:\Users\julio\Documents\MEGA\TCC\Code\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Forms\obj\Debug\Forms.csprojResolveAssemblyReference.cache
+C:\Users\julio\Documents\MEGA\TCC\Code\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Forms\obj\Debug\Forms.fCockpick.resources
+C:\Users\julio\Documents\MEGA\TCC\Code\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Forms\obj\Debug\Forms.Properties.Resources.resources
+C:\Users\julio\Documents\MEGA\TCC\Code\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Forms\obj\Debug\Forms.csproj.GenerateResource.Cache
+C:\Users\Melisse\Downloads\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE - v.0.2\Debug\Telemetria Fórmula SAE.exe.config
+C:\Users\Melisse\Downloads\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Forms\obj\Debug\Telemetria Fórmula SAE.exe
+C:\Users\Melisse\Downloads\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Forms\obj\Debug\Telemetria Fórmula SAE.pdb
+C:\Users\Melisse\Downloads\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE - v.0.2\Debug\Program.cs
+C:\Users\Melisse\Downloads\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE - v.0.2\Debug\Telemetria Fórmula SAE.exe
+C:\Users\Melisse\Downloads\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE - v.0.2\Debug\Telemetria Fórmula SAE.pdb
+C:\Users\Melisse\Downloads\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Forms\obj\Debug\Forms.csprojResolveAssemblyReference.cache
+C:\Users\Melisse\Downloads\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Forms\obj\Debug\Forms.fCockpick.resources
+C:\Users\Melisse\Downloads\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Forms\obj\Debug\Forms.Properties.Resources.resources
+C:\Users\Melisse\Downloads\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Forms\obj\Debug\Forms.csproj.GenerateResource.Cache
+C:\Users\Melisse\Documents\GitHub\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE - v.0.2\Debug\Telemetria Fórmula SAE.exe.config
+C:\Users\Melisse\Documents\GitHub\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Forms\obj\Debug\Telemetria Fórmula SAE.exe
+C:\Users\Melisse\Documents\GitHub\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Forms\obj\Debug\Telemetria Fórmula SAE.pdb
+C:\Users\Melisse\Documents\GitHub\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE - v.0.2\Debug\Program.cs
+C:\Users\Melisse\Documents\GitHub\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE - v.0.2\Debug\Telemetria Fórmula SAE.exe
+C:\Users\Melisse\Documents\GitHub\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE - v.0.2\Debug\Telemetria Fórmula SAE.pdb
+C:\Users\Melisse\Documents\GitHub\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Forms\obj\Debug\Forms.csprojResolveAssemblyReference.cache
+C:\Users\Melisse\Documents\GitHub\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Forms\obj\Debug\Forms.fCockpick.resources
+C:\Users\Melisse\Documents\GitHub\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Forms\obj\Debug\Forms.Properties.Resources.resources
+C:\Users\Melisse\Documents\GitHub\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Forms\obj\Debug\Forms.csproj.GenerateResource.Cache
+C:\Users\Melisse\Desktop\Telemetria Fórmula SAE - v.0.2\Debug\Telemetria Fórmula SAE.exe.config
+C:\Users\Melisse\Desktop\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Forms\obj\Debug\Telemetria Fórmula SAE.exe
+C:\Users\Melisse\Desktop\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Forms\obj\Debug\Telemetria Fórmula SAE.pdb

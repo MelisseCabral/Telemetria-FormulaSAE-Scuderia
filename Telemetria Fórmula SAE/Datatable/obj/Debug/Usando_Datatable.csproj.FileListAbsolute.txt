@@ -1,0 +1,27 @@
+c:\_cshp\Usando_Datatable\Usando_Datatable\bin\Debug\Usando_Datatable.exe.config
+c:\_cshp\Usando_Datatable\Usando_Datatable\bin\Debug\Usando_Datatable.exe
+c:\_cshp\Usando_Datatable\Usando_Datatable\bin\Debug\Usando_Datatable.pdb
+c:\_cshp\Usando_Datatable\Usando_Datatable\obj\Debug\Usando_Datatable.csprojResolveAssemblyReference.cache
+c:\_cshp\Usando_Datatable\Usando_Datatable\obj\Debug\Usando_Datatable.Form1.resources
+c:\_cshp\Usando_Datatable\Usando_Datatable\obj\Debug\Usando_Datatable.Properties.Resources.resources
+c:\_cshp\Usando_Datatable\Usando_Datatable\obj\Debug\Usando_Datatable.csproj.GenerateResource.Cache
+c:\_cshp\Usando_Datatable\Usando_Datatable\obj\Debug\Usando_Datatable.exe
+c:\_cshp\Usando_Datatable\Usando_Datatable\obj\Debug\Usando_Datatable.pdb
+D:\Telemetria Fórmula SAE\Test_Code\Usando_Datatable\Usando_Datatable\Usando_Datatable\bin\Debug\Usando_Datatable.exe.config
+D:\Telemetria Fórmula SAE\Test_Code\Usando_Datatable\Usando_Datatable\Usando_Datatable\obj\Debug\Usando_Datatable.exe
+D:\Telemetria Fórmula SAE\Test_Code\Usando_Datatable\Usando_Datatable\Usando_Datatable\obj\Debug\Usando_Datatable.pdb
+D:\Telemetria Fórmula SAE\Test_Code\Usando_Datatable\Usando_Datatable\Usando_Datatable\bin\Debug\Usando_Datatable.exe
+D:\Telemetria Fórmula SAE\Test_Code\Usando_Datatable\Usando_Datatable\Usando_Datatable\bin\Debug\Usando_Datatable.pdb
+D:\Telemetria Fórmula SAE\Test_Code\Usando_Datatable\Usando_Datatable\Usando_Datatable\obj\Debug\Usando_Datatable.csprojResolveAssemblyReference.cache
+D:\Telemetria Fórmula SAE\Test_Code\Usando_Datatable\Usando_Datatable\Usando_Datatable\obj\Debug\Usando_Datatable.Form1.resources
+D:\Telemetria Fórmula SAE\Test_Code\Usando_Datatable\Usando_Datatable\Usando_Datatable\obj\Debug\Usando_Datatable.Properties.Resources.resources
+D:\Telemetria Fórmula SAE\Test_Code\Usando_Datatable\Usando_Datatable\Usando_Datatable\obj\Debug\Usando_Datatable.csproj.GenerateResource.Cache
+D:\Telemetria Fórmula SAE\Usando_Datatable\obj\Debug\Usando_Datatable.csprojResolveAssemblyReference.cache
+D:\Telemetria Fórmula SAE\Usando_Datatable\obj\Debug\Usando_Datatable.fDataTable.resources
+D:\Telemetria Fórmula SAE\Usando_Datatable\obj\Debug\Usando_Datatable.Properties.Resources.resources
+D:\Telemetria Fórmula SAE\Usando_Datatable\obj\Debug\Usando_Datatable.csproj.GenerateResource.Cache
+D:\Telemetria Fórmula SAE\Usando_Datatable\obj\Debug\Usando_Datatable.exe
+D:\Telemetria Fórmula SAE\Usando_Datatable\obj\Debug\Usando_Datatable.pdb
+D:\Telemetria Fórmula SAE\Usando_Datatable\bin\Debug\Usando_Datatable.exe.config
+D:\Telemetria Fórmula SAE\Usando_Datatable\bin\Debug\Usando_Datatable.exe
+D:\Telemetria Fórmula SAE\Usando_Datatable\bin\Debug\Usando_Datatable.pdb

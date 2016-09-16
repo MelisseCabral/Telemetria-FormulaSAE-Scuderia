@@ -1,0 +1,36 @@
+D:\Telemetria Fórmula SAE\Datatable\bin\Debug\Datatable.exe.config
+D:\Telemetria Fórmula SAE\Datatable\bin\Debug\Datatable.exe
+D:\Telemetria Fórmula SAE\Datatable\bin\Debug\Datatable.pdb
+D:\Telemetria Fórmula SAE\Datatable\obj\Debug\Datatable.csprojResolveAssemblyReference.cache
+D:\Telemetria Fórmula SAE\Datatable\obj\Debug\Database.fDataBank.resources
+D:\Telemetria Fórmula SAE\Datatable\obj\Debug\Datatable.Properties.Resources.resources
+D:\Telemetria Fórmula SAE\Datatable\obj\Debug\Datatable.csproj.GenerateResource.Cache
+D:\Telemetria Fórmula SAE\Datatable\obj\Debug\Datatable.exe
+D:\Telemetria Fórmula SAE\Datatable\obj\Debug\Datatable.pdb
+C:\Users\julio\OneDrive\Documentos\MEGA\TCC\Code\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Datatable\bin\Debug\Datatable.exe.config
+C:\Users\julio\OneDrive\Documentos\MEGA\TCC\Code\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Datatable\bin\Debug\Datatable.exe
+C:\Users\julio\OneDrive\Documentos\MEGA\TCC\Code\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Datatable\bin\Debug\Datatable.pdb
+C:\Users\julio\OneDrive\Documentos\MEGA\TCC\Code\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Datatable\obj\Debug\Datatable.csprojResolveAssemblyReference.cache
+C:\Users\julio\OneDrive\Documentos\MEGA\TCC\Code\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Datatable\obj\Debug\Database.fDataBank.resources
+C:\Users\julio\OneDrive\Documentos\MEGA\TCC\Code\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Datatable\obj\Debug\Datatable.Properties.Resources.resources
+C:\Users\julio\OneDrive\Documentos\MEGA\TCC\Code\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Datatable\obj\Debug\Datatable.csproj.GenerateResource.Cache
+C:\Users\julio\OneDrive\Documentos\MEGA\TCC\Code\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Datatable\obj\Debug\Datatable.exe
+C:\Users\julio\OneDrive\Documentos\MEGA\TCC\Code\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Datatable\obj\Debug\Datatable.pdb
+C:\Users\julio\Documents\MEGA\TCC\Code\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Datatable\bin\Debug\Datatable.exe.config
+C:\Users\julio\Documents\MEGA\TCC\Code\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Datatable\bin\Debug\Datatable.exe
+C:\Users\julio\Documents\MEGA\TCC\Code\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Datatable\bin\Debug\Datatable.pdb
+C:\Users\julio\Documents\MEGA\TCC\Code\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Datatable\obj\Debug\Datatable.csprojResolveAssemblyReference.cache
+C:\Users\julio\Documents\MEGA\TCC\Code\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Datatable\obj\Debug\Database.fDataBank.resources
+C:\Users\julio\Documents\MEGA\TCC\Code\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Datatable\obj\Debug\Datatable.Properties.Resources.resources
+C:\Users\julio\Documents\MEGA\TCC\Code\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Datatable\obj\Debug\Datatable.csproj.GenerateResource.Cache
+C:\Users\julio\Documents\MEGA\TCC\Code\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Datatable\obj\Debug\Datatable.exe
+C:\Users\julio\Documents\MEGA\TCC\Code\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Datatable\obj\Debug\Datatable.pdb
+C:\Users\Melisse\Downloads\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Datatable\bin\Debug\Datatable.exe.config
+C:\Users\Melisse\Downloads\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Datatable\bin\Debug\Datatable.exe
+C:\Users\Melisse\Downloads\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Datatable\bin\Debug\Datatable.pdb
+C:\Users\Melisse\Downloads\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Datatable\obj\Debug\Datatable.csprojResolveAssemblyReference.cache
+C:\Users\Melisse\Downloads\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Datatable\obj\Debug\Database.fDataBank.resources
+C:\Users\Melisse\Downloads\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Datatable\obj\Debug\Datatable.Properties.Resources.resources
+C:\Users\Melisse\Downloads\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Datatable\obj\Debug\Datatable.csproj.GenerateResource.Cache
+C:\Users\Melisse\Downloads\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Datatable\obj\Debug\Datatable.exe
+C:\Users\Melisse\Downloads\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE - v.0.2\Telemetria Fórmula SAE\Datatable\obj\Debug\Datatable.pdb

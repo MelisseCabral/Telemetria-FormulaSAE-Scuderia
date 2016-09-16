@@ -1,0 +1,48 @@
+C:\Users\JulioCesar\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\Serial Comunication\bin\Debug\Serial Comunication.exe
+C:\Users\JulioCesar\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\Serial Comunication\bin\Debug\Serial Comunication.pdb
+C:\Users\JulioCesar\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\Serial Comunication\obj\Debug\Serial_Comunication.Properties.Resources.resources
+C:\Users\JulioCesar\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\Serial Comunication\obj\Debug\Serial_Comunication.Form1.resources
+C:\Users\JulioCesar\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\Serial Comunication\obj\Debug\Serial Comunication.csproj.GenerateResource.Cache
+C:\Users\JulioCesar\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\Serial Comunication\obj\Debug\Serial Comunication.exe
+C:\Users\JulioCesar\Documents\Visual Studio 2015\Projects\WindowsFormsApplication6\Serial Comunication\obj\Debug\Serial Comunication.pdb
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Serial Comunication\bin\Debug\Serial Comunication.exe
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Serial Comunication\bin\Debug\Serial Comunication.pdb
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Serial Comunication\obj\Debug\Serial Comunication.csprojResolveAssemblyReference.cache
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Serial Comunication\obj\Debug\Serial_Comunication.Properties.Resources.resources
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Serial Comunication\obj\Debug\Serial Comunication.csproj.GenerateResource.Cache
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Serial Comunication\obj\Debug\Serial Comunication.exe
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Serial Comunication\obj\Debug\Serial Comunication.pdb
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\WindowsFormsApplication6\Serial Comunication\obj\Debug\Serial Comunication.exe
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\WindowsFormsApplication6\Serial Comunication\obj\Debug\Serial Comunication.pdb
+C:\Users\JulioCesar\Documents\Visual Studio 2015\Projects\Telemetria Fórmula SAE\Serial Comunication\obj\Debug\Serial Comunication.exe
+C:\Users\JulioCesar\Documents\Visual Studio 2015\Projects\Telemetria Fórmula SAE\Serial Comunication\obj\Debug\Serial Comunication.pdb
+C:\Users\JulioCesar\Documents\Visual Studio 2015\Projects\Telemetria Fórmula SAE\Serial Comunication\bin\Debug\SerialComunication.resx
+C:\Users\JulioCesar\Documents\Visual Studio 2015\Projects\Telemetria Fórmula SAE\Serial Comunication\bin\Debug\Program.cs
+C:\Users\JulioCesar\Documents\Visual Studio 2015\Projects\Telemetria Fórmula SAE\Serial Comunication\bin\Debug\SerialComunication.cs
+C:\Users\JulioCesar\Documents\Visual Studio 2015\Projects\Telemetria Fórmula SAE\Serial Comunication\bin\Debug\SerialComunication.designer.cs
+C:\Users\JulioCesar\Documents\Visual Studio 2015\Projects\Telemetria Fórmula SAE\Serial Comunication\bin\Debug\Serial Comunication.exe
+C:\Users\JulioCesar\Documents\Visual Studio 2015\Projects\Telemetria Fórmula SAE\Serial Comunication\bin\Debug\Serial Comunication.pdb
+C:\Users\JulioCesar\Documents\Visual Studio 2015\Projects\Telemetria Fórmula SAE\Serial Comunication\obj\Debug\Serial Comunication.csprojResolveAssemblyReference.cache
+C:\Users\JulioCesar\Documents\Visual Studio 2015\Projects\Telemetria Fórmula SAE\Serial Comunication\obj\Debug\Serial_Comunication.Properties.Resources.resources
+C:\Users\JulioCesar\Documents\Visual Studio 2015\Projects\Telemetria Fórmula SAE\Serial Comunication\obj\Debug\Serial_Comunication.Form1.resources
+C:\Users\JulioCesar\Documents\Visual Studio 2015\Projects\Telemetria Fórmula SAE\Serial Comunication\obj\Debug\Serial Comunication.csproj.GenerateResource.Cache
+C:\Users\JulioCesar\Desktop\Telemetria Fórmula SAE\Serial Comunication\obj\Debug\Serial Comunication.exe
+C:\Users\JulioCesar\Desktop\Telemetria Fórmula SAE\Serial Comunication\obj\Debug\Serial Comunication.pdb
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Serial Comunication\bin\Debug\SerialComunication.resx
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Serial Comunication\bin\Debug\Program.cs
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Serial Comunication\bin\Debug\SerialComunication.cs
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Serial Comunication\bin\Debug\SerialComunication.designer.cs
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Serial Comunication\obj\Debug\Serial_Comunication.fSerialComunication.resources
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Serial Comunication\obj\Debug\Serial_Comunication.Form1.resources
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\obj\Debug\Serial Comunication.exe
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\obj\Debug\Serial Comunication.pdb
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\bin\Debug\Program.cs
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\bin\Debug\SerialComunication.resx
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\bin\Debug\SerialComunication.cs
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\bin\Debug\SerialComunication.designer.cs
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\bin\Debug\Serial Comunication.exe
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\bin\Debug\Serial Comunication.pdb
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\obj\Debug\Serial Comunication.csprojResolveAssemblyReference.cache
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\obj\Debug\Serial_Comunication.Properties.Resources.resources
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\obj\Debug\Forms.fSerialComunication.resources
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\obj\Debug\Serial Comunication.csproj.GenerateResource.Cache

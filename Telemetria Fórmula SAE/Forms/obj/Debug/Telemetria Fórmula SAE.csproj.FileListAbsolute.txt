@@ -1,0 +1,17 @@
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\obj\Debug\Forms.pdb
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\bin\Debug\Person.cs
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\bin\Debug\Broker.cs
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\bin\Debug\Program.cs
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\bin\Debug\Forms.pdb
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\bin\Debug\Domain.dll
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\bin\Debug\Session.dll
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\bin\Debug\Domain.pdb
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\bin\Debug\Session.pdb
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\obj\Debug\Telemetria Fórmula SAE.csprojResolveAssemblyReference.cache
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\obj\Debug\Forms.fCockpick.resources
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\obj\Debug\Forms.fDatabase.resources
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\obj\Debug\Forms.Properties.Resources.resources
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\obj\Debug\Telemetria Fórmula SAE.csproj.GenerateResource.Cache
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\bin\Debug\Forms.dll
+C:\Users\JulioCesar\Documents\MEGA\Eletrônica\Scuderia\Telemetria Fórmula SAE\Forms\obj\Debug\Forms.dll
